@@ -108,6 +108,7 @@ $help = $help."<p style='color:silver;font-size:80%;font-style:italic'> Enjoy, S
 	<script src="js/rateThis.js"></script>
 
 <script>
+alert('Hola mundo');
 $.ajaxSetup ({
 // Disable caching of AJAX responses
 cache: false
